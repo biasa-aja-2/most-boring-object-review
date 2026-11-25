@@ -10,7 +10,7 @@ import os
 
 LINE = (
     "This paperclip has held my life together for a decade, never asked "
-    "for a raise, and still gets bent out of shape whenever I need it most."
+    "for a raise, and still bends out of shape whenever I need it most."
 )
 
 
